@@ -1,0 +1,56 @@
+body{
+  text-align: center;
+    margin: 0;
+  
+  }
+#books{
+   width: 175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+.line {
+    height: 6px;
+    background-color:#C2185B ;
+    width: 70px;
+    margin: 8px auto;
+}
+
+.menu {
+    list-style: none;
+    font-family: fantasy;
+    position: absolute;
+    right: 30px;
+    top: 10px;
+    cursor: pointer;
+    float: right;
+}
+#welcome {
+    padding: 70px;
+    color: darkblue;
+    left: 0;
+    background: linear-gradient(#1aa3ff 0%, #F594F5 100%);
+                                                 
+}
+.links{
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family:cursive;
+    font-size: 20px;
+    
+}
+.links:hover{
+    font-size: 25px;
+    text-decoration: underline;
+    
+}
+#picture{
+    width: auto;
+    height: 300px;
+    border-radius: 0px;
+    margin: 20px;
+    
+}
+#writings{
+    background: linear-gradient(#1aa3ff 0%, #F594F5 100%);
+}
